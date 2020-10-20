@@ -1,0 +1,25 @@
+#header-nav
+{
+	background-color: #999;
+	border-radius: 0;
+	border: 0;
+	border: 2px solid black;
+}
+
+.container.header
+{
+	margin-left: 0;
+}
+
+.container h1
+{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#header-title
+{
+	font-size: 1.6em;
+	font-weight: bold;
+	margin-top: 30px;
+}
