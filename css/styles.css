@@ -19,7 +19,7 @@
 
 #header-title
 {
-	font-size: 1.6em;
+	font-size: 2em;
 	font-weight: bold;
 	margin-top: 30px;
 }
@@ -29,4 +29,71 @@
 	border: 1px solid black;
 	width: 40px;
 	height: 40px;
+}
+
+.title
+{
+	color: black;
+	margin: 0;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+	color: black;
+}
+
+#collapsable-nav
+{
+	text-align: center;
+}
+
+nav a
+{
+	border-top: 2px solid black;
+	font-size: 1.1em;
+	font-weight: bold
+}
+
+.navbar-nav > li > a
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+li:nth-child(3)
+{
+	padding-bottom: 0;
+}
+
+#Sushi
+{
+	padding-bottom: 0;
+}
+
+.Chicken
+{
+	font-weight: bold;
+}
+
+.navbar-brand
+{
+	padding-top: 10px;
+}
+
+@media (max-width: 768px) 
+{
+  #collapsable-nav
+  {
+  	background-color: white;
+  }
+}
+
+#main-content
+{
+	background-color: #999;
+}
+
+p
+{
+	font-weight: bold;
 }
