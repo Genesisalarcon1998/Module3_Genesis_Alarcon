@@ -73,6 +73,12 @@ li:nth-child(3)
 .Chicken
 {
 	font-weight: bold;
+	margin-top: 10px;
+}
+
+#Chicken
+{
+	margin-top: -8px;
 }
 
 .navbar-brand
@@ -88,12 +94,14 @@ li:nth-child(3)
   }
 }
 
-#main-content
-{
-	background-color: #999;
-}
-
 p
 {
 	font-weight: bold;
+}
+
+.text-container
+{
+	background-color: #999;
+	padding: 20px;
+	padding-top: 5px;
 }
